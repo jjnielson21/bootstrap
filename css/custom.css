@@ -6,7 +6,7 @@
 .navbar {
     background-color: #BFAE8E
 }
-img {
+.carousel-item > img {
     width: 100%;
 }
 .footer {
@@ -30,4 +30,10 @@ img {
 }
 .card {
     margin: 15px;
+}
+.media > img {
+    height: 100px;
+    width: auto;
+    margin: 15px;
+
 }
